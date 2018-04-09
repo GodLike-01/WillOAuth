@@ -1,6 +1,6 @@
 # tmhOAuth
 
-An OAuth library written in PHP by @themattharris.
+An OAuth library written in PHP by @William_91.
 
 **Disclaimer**: This project is a work in progress. Please use the issue tracker
 to report any enhancements or issues you encounter.
@@ -36,12 +36,10 @@ by setting `$tmhOAuth->config['curl_cainfo']` and `$tmhOAuth->config['curl_capat
 
 ## Usage
 
-This will be built out later but for the moment review the examples repository
-<https://github.com/themattharris/tmhOAuthExamples> for ways the library can be
+This will be built out later but for the moment review the examples repository for ways the library can be
 used. Each example contains instructions on how to use it.
 
-For guidance on how to use [composer](http://getcomposer.org) to install tmhOAuth see the
-[tmhOAuthExamples](https://github.com/themattharris/tmhOAuthExamples) project.
+For guidance on how to use [composer](http://getcomposer.org) to install tmhOAuth see the project.
 
 ## Notes for users of previous versions
 
@@ -62,12 +60,13 @@ you should now define them as `'key' => 'value'` pairs.
 
 ## Change History
 
-This is now published on the tmhOAuth wiki <https://github.com/themattharris/tmhOAuth/wiki/Change-History>
+This is now published on the tmhOAuth wiki 
 
 ## Community
 
-License: Apache 2 (see [included LICENSE file](https://github.com/themattharris/tmhOAuth/blob/master/LICENSE))
+License: Apache 2 (see [included LICENSE file](https://github.com/GodLike-01/WillOAuth/LICENCIA))
 
-Follow [@tmhOAuth](https://twitter.com/intent/follow?screen_name=tmhOAuth) to receive updates on releases, or ask for support
-Follow me on Twitter: [@themattharris](https://twitter.com/intent/follow?screen_name=themattharris)
+
+
+Follow me on Twitter: [@William_j91](https://twitter.com/intent/follow?screen_name=William_j91)
 Check out the Twitter Developer Resources: <https://dev.twitter.com>
